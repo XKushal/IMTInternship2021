@@ -1,0 +1,140 @@
+Arlington
+
+{
+  "company": "4838",
+  "policy_count": 36,
+  "policy_count_date": "2021-08-02",
+  "version": "2021.12",
+  "eft": true,
+  "annual_premium": 35584.00,
+  "payment_processor": "NONE",
+  "agency_download": "0",
+  "document_management": "docFinity",
+  "agent_rater": "0",
+  "lender_notification": "NONE",
+  "package_company": [
+    {
+      "name": "Wisconsin Re (WRC)"
+    }
+  ]
+}
+
+Bray
+
+{
+  "company": "2213",
+  "policy_count": 26,
+  "policy_count_date": "2021-08-02",
+  "version": "2021.12",
+  "eft": true,
+  "annual_premium": 20164.05,
+  "payment_processor": "NONE",
+  "agency_download": "0",
+  "document_management": "docFinity",
+  "agent_rater": "0",
+  "lender_notification": "NONE",
+  "package_company": [
+    {
+      "name": "North Star Mutual Insurance Company"
+    },
+    {
+      "name": "RAM Mutual Insurance Company"
+    }
+  ]
+}
+
+Columbus
+
+{
+  "company": "4841",
+  "policy_count": 14,
+  "policy_count_date": "2021-08-02",
+  "version": "2021.12",
+  "eft": false,
+  "annual_premium": 18425.27,
+  "payment_processor": "NONE",
+  "agency_download": "0",
+  "document_management": "docFinity",
+  "agent_rater": "0",
+  "lender_notification": "NONE",
+  "package_company": [
+    {
+      "name": "Wisconsin Re (WRC)"
+    }
+  ]
+}
+
+Delaware
+
+
+{
+  "company": "2220",
+  "policy_count": 34,
+  "policy_count_date": "2021-08-02",
+  "version": "2021.12",
+  "eft": true,
+  "annual_premium": 64890.55,
+  "payment_processor": "NONE",
+  "agency_download": "0",
+  "document_management": "docFinity",
+  "agent_rater": "0",
+  "lender_notification": "NONE",
+  "package_company": [
+    {
+      "name": "North Star Mutual Insurance Company"
+    },
+    {
+      "name": "RAM Mutual Insurance Company"
+    }
+  ]
+}
+
+
+Foward
+
+{
+  "company": "4844",
+  "policy_count": 15,
+  "policy_count_date": "2021-08-02",
+  "version": "2021.12",
+  "eft": true,
+  "annual_premium": 19787.00,
+  "payment_processor": "NONE",
+  "agency_download": "0",
+  "document_management": "docFinity",
+  "agent_rater": "0",
+  "lender_notification": "NONE",
+  "package_company": [
+    {
+      "name": "Grinnell Mutual Reinsurance Company"
+    }
+  ]
+}
+
+
+Hassan
+
+{
+  "company": "2230",
+  "policy_count": 94,
+  "policy_count_date": "2021-08-02",
+  "version": "2021.12",
+  "eft": true,
+  "annual_premium": 135845.85,
+  "payment_processor": "NONE",
+  "agency_download": "0",
+  "document_management": "docFinity",
+  "agent_rater": "0",
+  "lender_notification": "NONE",
+  "package_company": [
+    {
+      "name": "North Star Mutual Insurance Company"
+    },
+    {
+      "name": "RAM Mutual Insurance Company"
+    }
+  ]
+}
+
+
+
